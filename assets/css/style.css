@@ -821,15 +821,15 @@ color:#fff;
 text-transform: capitalize;
 }
 .color-one{background: #d43856;}
-.color-two{background: #35ac39;margin-top: 60px;}
+.color-two{background: #493ccb;margin-top: 60px;}
 @media only screen and (max-width:480px) { 
 .color-two{margin-top:0px;}
 }
-.color-three{background: #f54291;margin-top: -60px;}
+.color-three{background: #f92829b8;margin-top: -60px;}
 @media only screen and (max-width:480px) { 
 .color-three{margin-top:0px;}
 }
-.color-four{background: #bac964;}
+.color-four{background: #a12f78;}
 /*END COUNTER*/
 /*END ABOUT PROCESS*/
 /*
