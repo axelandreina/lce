@@ -821,8 +821,7 @@ color:#fff;
 text-transform: capitalize;
 }
 .color-one{background: #d43856;}
-.color-two{background: #493ccb;margin-top: 60px;}
-@media only screen and (max-width:480px) { 
+s@media only screen and (max-width:480px) { 
 .color-two{margin-top:0px;}
 }
 .color-three{background: #f92829b8;margin-top: -60px;}
